@@ -19,6 +19,10 @@
 
 
 ----
+"Ben yazılımcının koduna güvenip test yazmayanını severim."
+- M. Yavuz Yalçıntaş
+
+
 "Gerçek yazılımcı öyle harıl harıl çalışmaz çalışıyor gibi yapar" 
 -anonim - Hümeyra Benli
 
