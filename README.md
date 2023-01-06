@@ -17,7 +17,11 @@
 
 Üstad Bora Kaşmer,Usta Evren Tan,Guru Çağrı Dursun, cahil furkan
 
+
 ----
+"Gerçek yazılımcı öyle harıl harıl çalışmaz çalışıyor gibi yapar" 
+-anonim - Hümeyra Benli
+
 
 Arabanın nasıl çalıştığını hepimiz biliriz. Anahtarı çevirerek. Bu araba konusunda usta olduğumuz anlamına gelmiyor.Bu arabayı amacımız için kullanmayı yeteri kadar bildiğimiz anlamına geliyor. Arabaya değil gideceğiniz yere odaklanın :P, çok fazla detaya girmezsiniz. 
 ― K.M.
